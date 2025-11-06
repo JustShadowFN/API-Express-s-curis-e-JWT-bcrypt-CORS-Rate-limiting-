@@ -1,6 +1,6 @@
 # API Sécurisée - Bibliothèque
 
-[cite_start]Projet de TP pour la création d'une API Express sécurisée (JWT, bcrypt, CORS, Rate limiting)[cite: 1].
+Projet de TP pour la création d'une API Express sécurisée (JWT, bcrypt, CORS, Rate limiting).
 
 ## Thème
 

@@ -21,13 +21,13 @@ L'API gère une collection de livres et d'auteurs pour une bibliothèque.
     node src/server.js
     ```
 
-## [cite_start]Schémas (Mongoose) 
+## Schémas (Mongoose) 
 
 * [cite_start]**User**: `email`, `password` (hash), `role` ('user' | 'admin') 
 * **Author**: `name`, `bio`
 * [cite_start]**Book**: `title`, `author` (Ref: Author), `isbn`, `publishedDate` 
 
-## [cite_start]Endpoints 
+## Endpoints 
 
 (Voir `postman_collection.json` pour les détails)
 
